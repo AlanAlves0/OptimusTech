@@ -1,5 +1,6 @@
 @import url("styles/header.css");
 @import url("styles/conteudo.css");
+@import url("styles/analises.css");
 
 :root{
 
@@ -7,6 +8,7 @@
     --preto-claro:#667085;
     --branco:#ffffff;
     --vermelho: #8E2424;
+    --azul: #101828;
 
     --fonte-principal: "Inter"
 }
