@@ -1,0 +1,25 @@
+.imagem{
+    text-align: center;
+    align-items: center;
+    margin: 8em;
+}
+
+.texto_imagem{
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 500;
+    
+}
+
+.titulo_imagem{
+    color: var(--azul);
+    font-weight: 600;
+    font-size: 36px;
+    margin: 0.5em;
+}
+
+.paragrafo_imagem{
+    color: var(--preto-claro);
+    font-size: 20px;
+    margin-bottom: 3em;
+}
