@@ -1,0 +1,29 @@
+.nome{
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 2em;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--azul);
+}
+
+.nome_informacoes{
+    width: 55%;
+    margin: 0 auto;
+    margin-bottom: 5em;
+}
+
+.nome_vaga{
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--azul);
+    
+}
+.tempo{
+    padding-right: 2em;
+}
+.informacoes_vaga{
+    margin-top: 1em;
+    font-weight: 500;
+    color: var(--cinza-claro);
+}
