@@ -3,6 +3,8 @@
 @import url("styles/analises.css");
 @import url("styles/sessaoimagem.css");
 @import url("styles/vagas.css");
+@import url("styles/feedback.css");
+@import url("styles/rodape.css");
 
 :root{
 
@@ -11,6 +13,8 @@
     --branco:#ffffff;
     --vermelho: #8E2424;
     --azul: #101828;
+    --branco-cinza: #e2e1e1e8;
+    --cinza: #98A2B3;
 
     --fonte-principal: "Inter"
 }
